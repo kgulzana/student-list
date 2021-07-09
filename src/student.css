@@ -1,0 +1,32 @@
+body {
+  background: #e9ecf2;
+}
+
+.sidebar {
+  background: #fff;
+  padding-top: 3px;
+  padding-bottom: 30px;
+  height: 100vh;
+  position: fixed;
+}
+
+.content {
+  margin-left: 25%;
+}
+
+.student {
+  padding: 10px;
+  background: #fff;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
+
+.btn-nav {
+  width: 100%;
+  border: 1px solid #e9ecf2;
+  border-radius: 3px;
+}
+
+.btn-nav.active {
+  border-color: #81a0de;
+}
